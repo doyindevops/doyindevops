@@ -6,13 +6,17 @@
  
 - 🔭 I’m currently working on 32 Real-Time Projects
 
-- 🌱 I’m currently on ansible- automation
+- 🌱 Currently on ansible-automation
 
--  👯 I’m currently looking for an internship 
+-  👯 I’m open to Paid/Unpaid internship 
 
 -  ⚡ Fun fact: I love watching movies and travelling
 
-- 📫 How to reach me: [Email(adedoyinekong@gmail.com)
+- 📫 How to reach me: adedoyinekong@gmail.com
+
+- Lets 🔗 up on https://www.linkedin.com/in/adedoyin-ekong/
+
+  
 
 
 <!--- 
