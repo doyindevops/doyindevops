@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently working on 32 Real-Time Projects
 
-- 🌱 Currently on ansible-automation
+- 🌱 Currently on ANSIBLE REFACTORING AND STATIC ASSIGNMENTS (IMPORTS AND ROLES)
 
 -  👯 I’m open to Paid/Unpaid internship 
 
