@@ -6,9 +6,9 @@
  
 - 🔭 I’m currently working on 32 Intensive DevOps Projects on the Darey.IO Professional DevOps Bootcamp
 
-- 🌱 Currently on ANSIBLE REFACTORING AND STATIC ASSIGNMENTS (IMPORTS AND ROLES)
+- 🌱 And I am on Introduction to Infarstructure As Code (Terraform)
 
--  👯 I’m open to Paid/Unpaid internship 
+-  👯 I’m open to internship in any capacity
 
 -  ⚡ Fun fact: I love watching movies and travelling
 
