@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently working on 32 Intensive DevOps Projects on the Darey.IO Professional DevOps Bootcamp
 
-- 🌱 And I am on Introduction to Infarstructure As Code (Terraform)
+- 🌱 And I am on          "Introduction to Infarstructure As Code (Terraform)"
 
 -  👯 I’m open to internship in any capacity
 
