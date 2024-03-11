@@ -4,11 +4,7 @@
 
  I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, and Infrastructure Automation.
  
-- 🔭 I’m currently working on 32 Intensive DevOps Projects on the Darey.IO Professional DevOps Bootcamp
-
-- 🌱 And I am on          "Introduction to Infarstructure As Code (Terraform)"
-
--  👯 I’m open to internship in any capacity
+- 🔭 I’m currently working on 32 Intensive DevOps Projects
 
 -  ⚡ Fun fact: I love watching movies and travelling
 
