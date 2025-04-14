@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋  
+I'm **Adedoyin Ekong**, a DevOps Engineer passionate about building scalable infrastructure and driving DevOps culture through automation, CI/CD, and cloud-native tools.
 
- I am Adedoyin Ekong
+🚀 **Recently Completed Projects:**  
+- **AWS CI/CD Pipeline with GitHub Actions** – End-to-end deployment of a containerized app using GitHub Actions, ECR, and ECS.  
+- **Monitoring Infrastructure with Prometheus & Grafana** – Implemented full-stack observability with custom dashboards and alerting on a Kubernetes cluster.
 
- I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, and Infrastructure Automation.
- 
-- 🔭 I’m currently working on 32 Intensive DevOps Projects
+💡 I thrive at the intersection of Cloud Engineering and Infrastructure as Code. Whether it's provisioning with Terraform or automating pipelines with Jenkins and GitHub Actions, I’m all about efficiency, reliability, and continuous improvement.
 
--  ⚡ Fun fact: I love watching movies and travelling
+📫 Reach me at: **adedoyinekong@gmail.com**  
+🤝 Let's connect: [LinkedIn](https://www.linkedin.com/in/adedoyin-ekong/)
 
-- 📫 How to reach me: adedoyinekong@gmail.com
-
-- Lets 🔗 up on https://www.linkedin.com/in/adedoyin-ekong/
+🎬 Outside of tech, I enjoy movies and exploring new places 🌍
 
   
 
