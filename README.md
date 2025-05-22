@@ -6,6 +6,8 @@ I'm **Adedoyin Ekong**, a DevOps Engineer passionate about building scalable inf
 - **Monitoring Infrastructure with Prometheus & Grafana** – Implemented full-stack observability with custom dashboards and alerting on a Kubernetes cluster.
 
 💡 I thrive at the intersection of Cloud Engineering and Infrastructure as Code. Whether it's provisioning with Terraform or automating pipelines with Jenkins and GitHub Actions, I’m all about efficiency, reliability, and continuous improvement.
+📘 Read my DevOps articles on [Medium](https://medium.com/@adedoyinekong)
+
 
 📫 Reach me at: **adedoyinekong@gmail.com**  
 🤝 Let's connect: [LinkedIn](https://www.linkedin.com/in/adedoyin-ekong/)
