@@ -1,53 +1,49 @@
-# Hi there 👋  
-I'm **Adedoyin Ekong**, a DevOps Engineer passionate about building scalable infrastructure and driving DevOps culture through automation, CI/CD, and cloud-native tools.
+# 👋 Hi, I'm Adedoyin Ekong
+
+I'm a DevOps Engineer passionate about building scalable infrastructure and driving DevOps culture through automation, CI/CD, and cloud-native tools.
 
 ---
 
-## 🚀 Recently Completed Projects
+## 🚀 Featured Projects
 
-- **AWS CI/CD Pipeline with GitHub Actions**  
-  End-to-end deployment of a containerized app using GitHub Actions, ECR, and ECS.
+- **[EKS Microservices Platform (GitOps with ArgoCD)](https://github.com/doyindevops/ecommerce-platform)**  
+  Production-grade Kubernetes microservices with GitOps, CI/CD (GitHub Actions), and EFK stack.
 
-- **Monitoring Infrastructure with Prometheus & Grafana**  
-  Implemented full-stack observability with custom dashboards and alerting on a Kubernetes cluster.
+- **[Terraform WordPress Stack on AWS](https://github.com/doyindevops/boostpoint-wordpress-aws)**  
+  Highly available WordPress environment using EC2, RDS, ALB, and Terraform modules.
 
----
-
-## 💡 What I Do
-
-I thrive at the intersection of **Cloud Engineering** and **Infrastructure as Code**.  
-Whether it's provisioning with **Terraform**, managing Kubernetes with **eksctl**, or automating pipelines using **Jenkins** and **GitHub Actions** — I'm all about **efficiency**, **reliability**, and **continuous improvement**.
+- **[Monitoring Stack with Prometheus & Grafana](https://github.com/doyindevops/monitoring-k8s-prometheus)**  
+  Full observability pipeline for Kubernetes clusters with alerting and custom dashboards.
 
 ---
 
-## 📝 Articles & Resources
+## 🧠 What I Do
 
-📘 I write about DevOps, AWS, and Kubernetes on [**Medium**](https://medium.com/@adedoyinekong)
+I thrive at the intersection of **Cloud Engineering** and **Infrastructure as Code**.
+
+Whether it's provisioning with Terraform, managing Kubernetes with `eksctl`, or automating pipelines using Jenkins, GitHub Actions, and FluxCD — I'm all about **efficiency, security, and continuous delivery**.
+
+---
+
+## ✍️ Technical Writing
+
+I share DevOps tips, tools, and walkthroughs on Medium:  
+📘 [https://medium.com/@adedoyinekong](https://medium.com/@adedoyinekong)
+
+---
+
+## 🎥 YouTube Demos
+
+Watch video walkthroughs of my projects and tutorials:  
+📺 [https://www.youtube.com/@doyinekong/playlists](https://www.youtube.com/@doyinekong/playlists)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: adedoyinekong@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/adedoyinekong](https://linkedin.com/in/adedoyinekong)  
+- Email: [adedoyinekong@gmail.com](mailto:adedoyinekong@gmail.com)  
+- LinkedIn: [linkedin.com/in/adedoyinekong](https://www.linkedin.com/in/adedoyinekong)
 
 ---
 
 🎬 Outside of tech, I enjoy movies and exploring new places 🌍
-
-
-
-<!--- 
-**doyindevops/doyindevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-
--->
