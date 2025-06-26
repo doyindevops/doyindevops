@@ -4,7 +4,7 @@ I'm a DevOps Engineer passionate about building scalable infrastructure and driv
 
 ---
 
-## 🚀 Featured Projects
+🚀 **Featured Projects**
 
 - **[EKS Microservices Platform (GitOps with ArgoCD)](https://github.com/doyindevops/ecommerce-platform)**  
   Production-grade Kubernetes microservices with GitOps, CI/CD (GitHub Actions), and EFK stack.
@@ -14,6 +14,13 @@ I'm a DevOps Engineer passionate about building scalable infrastructure and driv
 
 - **[Monitoring Stack with Prometheus & Grafana](https://github.com/doyindevops/monitoring-k8s-prometheus)**  
   Full observability pipeline for Kubernetes clusters with alerting and custom dashboards.
+
+- **[Fintech Payments API (Serverless, IaC, CI/CD, Security)](https://github.com/doyindevops/fintech-payments-sim-2024)**  
+  Real-world AWS serverless payments platform, automated with GitHub Actions, tested for security (OWASP ZAP), and built with SAM/CloudFormation.
+
+- **[Logistics Tracking Platform (AWS Serverless, Terraform, Grafana)](https://github.com/doyindevops/logistics-tracking-platform)**  
+  End-to-end logistics API—built with Terraform, Lambda, API Gateway, DynamoDB, fully automated CI/CD, and production monitoring with Amazon Managed Grafana.
+
 
 ---
 
