@@ -12,7 +12,7 @@ I'm a DevOps Engineer passionate about building scalable infrastructure and driv
 - **[Terraform WordPress Stack on AWS](https://github.com/doyindevops/boostpoint-wordpress-aws)**  
   Highly available WordPress environment using EC2, RDS, ALB, and Terraform modules.
 
-- **[Monitoring Stack with Prometheus & Grafana](https://github.com/doyindevops/monitoring-k8s-prometheus)**  
+- **[Monitoring Stack with Prometheus & Grafana](https://github.com/doyindevops/Monitoring-Stack-with-Prometheus-Grafana.git)**  
   Full observability pipeline for Kubernetes clusters with alerting and custom dashboards.
 
 - **[Fintech Payments API (Serverless, IaC, CI/CD, Security)](https://github.com/doyindevops/fintech-payments-sim-2024)**  
