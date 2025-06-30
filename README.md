@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Adedoyin Ekong
 
-I'm a DevOps Engineer passionate about building scalable infrastructure and driving DevOps culture through automation, CI/CD, and cloud-native tools.
-
+I'm a DevOps/DevSecOps Engineer passionate about delivering secure cloud infrastructure, CI/CD pipelines, and automation at scale.
 ---
 
 🚀 **Featured Projects**
