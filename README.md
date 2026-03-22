@@ -5,7 +5,7 @@ I'm a DevOps/DevSecOps Engineer passionate about delivering secure cloud infrast
 
 🚀 **Featured Projects**
 
-- **[Automated RDS Backup & Restore Validation Pipeline](https://github.com/doyindevops/rds-backup-restore-validation)**  
+- **[Automated RDS Backup & Restore Validation Pipeline](https://github.com/doyindevops/Automated-Disaster-Recovery-Backup-Validation-Pipeline-on-AWS)**  
   End-to-end AWS pipeline that automates RDS snapshot creation, cross-region restore, and data integrity validation—triggered via EventBridge, orchestrated with      Step Functions, and monitored through CloudWatch and SNS alerting. Ensures backup reliability without manual intervention.
 
 - **[EKS Microservices Platform (GitOps with ArgoCD)](https://github.com/doyindevops/ecommerce-platform)**  
