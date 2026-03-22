@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adedoyin Ekong
 
-I'm a DevSecOps & Platform Engineer with 4+ years building and securing cloud infrastructure on AWS. I reduced cloud spend by 60% at Elevate Apps through infrastructure consolidation, and resolved a critical production incident in 18 minutes — preventing a missed product launch.
+## *I'm a DevSecOps & Platform Engineer with 4+ years building and securing cloud infrastructure on AWS. I reduced cloud spend by 60% at Elevate Apps through infrastructure consolidation, and resolved a critical production incident in 18 minutes — preventing a missed product launch.*
 ---
 
 🚀 **Featured Projects**
