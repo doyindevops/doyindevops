@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adedoyin Ekong
 
-I'm a DevOps/DevSecOps Engineer passionate about delivering secure cloud infrastructure, CI/CD pipelines, and automation at scale.
+I'm a DevSecOps & Platform Engineer with 4+ years building and securing cloud infrastructure on AWS. I reduced cloud spend by 60% at Elevate Apps through infrastructure consolidation, and resolved a critical production incident in 18 minutes — preventing a missed product launch.
 ---
 
 🚀 **Featured Projects**
@@ -25,15 +25,13 @@ I'm a DevOps/DevSecOps Engineer passionate about delivering secure cloud infrast
 
 ## 🧠 What I Do
 
-I thrive at the intersection of **Cloud Engineering** and **Infrastructure as Code**.
-
-Whether it's provisioning with Terraform, managing Kubernetes with `eksctl`, or automating pipelines using Jenkins, GitHub Actions, and FluxCD — I'm all about **efficiency, security, and continuous delivery**.
+My work centres on AWS-based environments using Terraform, Kubernetes, Argo CD, and GitHub Actions to build secure CI/CD pipelines, GitOps delivery workflows, and production-grade observability stacks. Security isn't bolted on at the end — it's embedded at every stage using Trivy, Checkov, Gitleaks, and OWASP ZAP.
 
 ---
 
 ## ✍️ Technical Writing
 
-I share DevOps tips, tools, and walkthroughs on Medium:  
+I document everything I build. Through technical write-ups and video walkthroughs, I break down how real DevSecOps systems are designed, deployed, and secured — because the best engineers share what they know.
 📘 [https://medium.com/@adedoyinekong](https://medium.com/@adedoyinekong)
 
 ---
